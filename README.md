@@ -4,11 +4,9 @@
 
 We design a simple landing page by using flutter.
 
-### Design Referance 
 
-<img align="left" src = "https://www.uplabs.com/logos/uplabs/default--color.svg" alt ="Loading">
-
-![CMARIX TechnoLabs](https://www.uplabs.com/posts/travel-website-landing-page-173fc5e6-08ea-4e88-8dd6-4094fd6ebf21)
+# Design Referance 
+### [CMARIX TechnoLabs](https://www.uplabs.com/posts/travel-website-landing-page-173fc5e6-08ea-4e88-8dd6-4094fd6ebf21)
 
 
 ## Traveling landing page Final UI
