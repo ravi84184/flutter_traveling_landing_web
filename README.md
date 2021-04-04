@@ -1,15 +1,20 @@
-# flutter_traveling_landing
-# Flutter App - Find Designer - Flutter UI
+# Flutter App - Traveling landing page - Flutter UI
 
 ## [Watch it on YouTube]()
 
-We design a simple mobile app by using flutter.
+We design a simple landing page by using flutter.
 
-### Find Designer App Final UI
+### Design Referance 
 
-![App UI](https://github.com/ravi84184/flutter_find_designer/blob/main/Untitled%20Design.png)
+<img align="left" src = "https://www.uplabs.com/logos/uplabs/default--color.svg" alt ="Loading">
 
+![CMARIX TechnoLabs](https://www.uplabs.com/posts/travel-website-landing-page-173fc5e6-08ea-4e88-8dd6-4094fd6ebf21)
+
+
+## Traveling landing page Final UI
+
+![App UI](https://github.com/ravi84184/flutter_traveling_landing_web/blob/main/ss.png)
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/flutter_find_designer/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/flutter_traveling_landing_web/count.svg" alt ="Loading">
