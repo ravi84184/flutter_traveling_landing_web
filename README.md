@@ -1,6 +1,6 @@
 # Flutter App - Traveling landing page - Flutter UI
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://youtu.be/0KPZlWZAzfA)
 
 We design a simple landing page by using flutter.
 
